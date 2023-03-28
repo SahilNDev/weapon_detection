@@ -1,0 +1,6 @@
+onnx
+onnxruntime
+urllib
+numpy
+PIL
+validators
